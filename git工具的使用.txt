@@ -1,0 +1,6 @@
+git工具的常用命令
+git clone 从远程仓库上去拉取项目
+git init 初始化当前文件夹为git仓库
+git add 添加修改的文件到暂存区
+git commit 将暂存区的文件提交至仓库
+git checkout 撤销上次的提交
